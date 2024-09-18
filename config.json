@@ -1,11 +1,11 @@
 {
-    "token": "",
-    "password": "",
-    "prefix": "*",
+    "token": "TOKEN-HERE", 
+    "password": "PASSWORD-HERE", #Useful for some options
+    "prefix": "/",
     
-    "nitro_sniper": true, 
-    "giveaway_sniper": true,
+    "nitro_sniper": true,
+    "giveaway_sniper": true, 
 
-    "stream_url": "",
-    "tts_language": "en"
+    "stream_url": 
+    "tts_language": "en" 
 }
